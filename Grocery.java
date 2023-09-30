@@ -108,7 +108,7 @@ public class Main {
             Display.showProduct(product);
 
             System.out.print("Do you wish to continue (yes/no)? ");
-            String userInput = scanner.nextLine().trim().toLowerCase();
+            String userInput = scanner.nextLine().trim();
 
             if (userInput.equals("no")) {
                 System.out.println("Exiting the program.");
