@@ -1,0 +1,8 @@
+1,Grounded Beef,8.99
+2,X-lean Ground Beef,10.99
+3,NY Strip,12.97
+4,Rib-eye,15.97
+5,Chicken Thighs, 4.99
+6,Chiken Wings, 5.97
+
+
